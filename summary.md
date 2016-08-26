@@ -8,5 +8,6 @@
 * [Intro to Javascript - Part 1](intro-to-javascript---part-1.md)
 * [Intro to Javascript - Part 2](intro-to-javascript---part-2.md)
 * [Project: Build A 2-Player Game with JavaScript](project-build-a-2-player-game-with-javascript.md)
-* [Summary](summary.md)
+* [Make Your Website Interactive with jQuery](make-your-website-interactive-with-jquery.md)
+* Make Your Website Interactive with jQuery
 
