@@ -1,20 +1,20 @@
 # Styling Web Applications with CSS3
 
-* Lecture: What's CSS? Why do we need it?0:00
+* Lecture: What's CSS? Why do we need it?
 
-* Lecture: Loading CSS files to your webpage0:00
+* Lecture: Loading CSS files to your webpage
 
-* Lecture: CSS Syntax0:00
+* Lecture: CSS Syntax
 
-* Lecture: Tag Selectors0:00
+* Lecture: Tag Selectors
 
-* Quiz: CSS Tag Selectors Checkpoint0:00
+* Quiz: CSS Tag Selectors Checkpoint
 
-* Lecture: Class Selectors0:00
+* Lecture: Class Selectors
 
-* Quiz: CSS Class Selectors Checkpoint0:00
+* Quiz: CSS Class Selectors Checkpoint
 
-* Lecture: ID Selectors0:00
+* Lecture: ID Selectors
 
 * Quiz: CSS ID Selectors Checkpoint0:00
 
