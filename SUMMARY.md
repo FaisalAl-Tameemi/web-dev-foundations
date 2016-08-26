@@ -11,7 +11,7 @@
     * [HTML vs. HTML5](html-vs-html5.md)
     * [Exercise: Building Your First Webpage](exercise-building-your-first-webpage.md)
     * [Exercise Solution](exercise-solution.md)
-    * [Summary](summary.md)
+    * [Summary](ch1-summary.md)
 * [Styling with CSS3](styling-with-css3.md)
 * [Project: Build A Website with Bootstrap](project-1---bootstrap.md)
 * [Intro to Javascript - Part 1](intro-to-javascript---part-1.md)
