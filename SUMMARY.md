@@ -67,5 +67,5 @@
 * [Project: Build A Chat App](project-build-a-chat-app.md)
 * [Payment Processing with Stripe](payment-processing-with-stripe.md)
 * [Project: Build An E-commerce Website](project-build-an-e-commerce-website.md)
-* [SUMMARY](summary.md)
+* [SUMMARY](SUMMARY.md)
 
