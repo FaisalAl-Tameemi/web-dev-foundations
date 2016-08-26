@@ -11,4 +11,7 @@
 * [Make Your Website Interactive with jQuery](make-your-website-interactive-with-jquery.md)
 * [Project: Website Interactions and Animations](project-website-interactions-and-animations.md)
 * [APIs, AJAX and Third Party Integrations](apis-ajax-and-third-party-integrations.md)
+* [Real-Time Apps with Firebase](real-time-apps-with-firebase.md)
+* [Sending Automatic Emails with Mailgun](sending-automatic-emails-via-mailgun.md)
+* Payment Processing with Stripe
 
