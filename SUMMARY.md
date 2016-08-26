@@ -33,7 +33,7 @@
     * [Exercise: Stylize Your First Webpage](content/__ch3_95_stylize_your_page_exercise.md)
     * [CSS Exercise Solutions](content/__ch3_96_exercise_solutions.md)
     * [Summary](content/__ch3_99_summary.md)
-* [Project: Build A Website with Bootstrap](project-1---bootstrap.md)
+* [Project: Build A Website with Bootstrap]
 * [Intro to Javascript - Part 1](intro-to-javascript---part-1.md)
     * [What Is Javascript?](what-is-javascript.md)
     * [JS Variables](js-variables.md)
