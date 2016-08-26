@@ -16,11 +16,11 @@
 
 * Lecture: ID Selectors
 
-* Quiz: CSS ID Selectors Checkpoint0:00
+* Quiz: CSS ID Selectors Checkpoint
 
-* Quiz: Add CSS Styling to Your First Webpage0:00
+* Quiz: Add CSS Styling to Your First Webpage
 
-* Lecture: Styling Exercise Solutions0:00
+* Lecture: Styling Exercise Solutions
 
 * Lecture: Summary + Next Steps
 
