@@ -2,24 +2,24 @@
 
 ---
 
-* **Lecture: Introduction**
+* Lecture: Introduction
 
-* **Lecture: What's a Web Application?**
+* Lecture: What's a Web Application?
 
-* **Lecture:Components of Websites \/ Web Applications**
+* Lecture:Components of Websites / Web Applications
 
-* **Lecture: Front-End**
+* Lecture: Front-End
 
-* **Lecture: Back-End**
+* Lecture: Back-End
 
-* **Quiz: Backend vs. Frontend Checkpoint**
+* Quiz: Backend vs. Frontend Checkpoint
 
-* **Lecture: Databases**
+* Lecture: Databases
 
-* **Lecture: Infrastructure**
+* Lecture: Infrastructure
 
-* **Quiz: Internet 101 Checkpoint**
+* Quiz: Internet 101 Checkpoint
 
-* **Lecture: Getting The Tools**
+* Lecture: Getting The Tools
 
 
