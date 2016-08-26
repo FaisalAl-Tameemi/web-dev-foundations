@@ -1,21 +1,23 @@
 # HTML5 Building Blocks
 
-Lecture: How Do Webpages Work?0:00
+* Lecture: How Do Webpages Work?
 
-Lecture: HTML Elements0:00
+* Lecture: HTML Elements
 
-Lecture: HTML Tags0:00
+* Lecture: HTML Tags
 
-Lecture: Basic Tags0:00
+* Lecture: Basic Tags
 
-Quiz: HTML Tags Checkpoint0:00
+* Quiz: HTML Tags Checkpoint
 
-Quiz: HTML5 Tags Practice0:00
+* Quiz: HTML5 Tags Practice
 
-Lecture: HTML vs. HTML50:00
+* Lecture: HTML vs. HTML5
 
-Quiz: Your First Webpage0:00
+* Quiz: Your First Webpage
 
-Lecture: HTML Exercise Solutions0:00
+* Lecture: HTML Exercise Solutions
 
-Lecture: Summary + Next Steps
+* Lecture: Summary + Next Steps
+
+
