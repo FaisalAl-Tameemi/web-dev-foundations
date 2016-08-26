@@ -1,3 +1,0 @@
-# HTML5 Building Blocks
-
-In this chapter, we will explore...

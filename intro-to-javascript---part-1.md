@@ -1,3 +1,0 @@
-# Intro to Javascript - Part 1
-
-In this chapter, we will discuss...
