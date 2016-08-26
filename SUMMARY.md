@@ -35,27 +35,28 @@
     * [Summary](ch2-summary.md)
 * [Project: Build A Website with Bootstrap](project-1---bootstrap.md)
 * [Intro to Javascript - Part 1](intro-to-javascript---part-1.md)
-    * What Is Javascript?
-    * JS Variables
-    * Quiz: JS Variables
-    * JS Operators
-    * Quiz: JS Operators
-    * JS Functions \(aka Methods\)
-    * Quiz: JS Functions
-    * Exercise: JS Operators & Functions
-    * Exercise Solutions
-    * JS Arrays
-    * Quiz: JS Arrays
-    * JS Loops
-    * Quiz: JS Loops
-    * Exercise: JS Arrays and Loops
-    * Exercise Solutions
-    * JS Objects
-    * Quiz: Variables vs. Objects
-    * Quiz: More Objects
-    * Exercise: JS Objects
-    * Exercise Solutions
-    * JS Conditions
+    * [What Is Javascript?](what-is-javascript.md)
+    * [JS Variables](js-variables.md)
+    * [Quiz: JS Variables](quiz-js-variables.md)
+    * [JS Operators](js-operators.md)
+    * [Quiz: JS Operators](quiz-js-operators.md)
+    * [JS Functions \(aka Methods\)](js-functions-aka-methods.md)
+    * [Quiz: JS Functions](quiz-js-functions.md)
+    * [Exercise: JS Operators & Functions](exercise-js-operators--functions.md)
+    * [Exercise Solutions](exercise-solutions.md)
+    * [JS Arrays](js-arrays.md)
+    * [Quiz: JS Arrays](quiz-js-arrays.md)
+    * [JS Loops](js-loops.md)
+    * [Quiz: JS Loops](quiz-js-loops.md)
+    * [Exercise: JS Arrays and Loops](exercise-js-arrays-and-loops.md)
+    * [Exercise Solutions](exercise-solutions.md)
+    * [JS Objects](js-objects.md)
+    * [Quiz: Variables vs. Objects](quiz-variables-vs-objects.md)
+    * [Quiz: More Objects](quiz-more-objects.md)
+    * [Exercise: JS Objects](exercise-js-objects.md)
+    * [Exercise Solutions](exercise-solutions.md)
+    * [JS Conditions](js-conditions.md)
+    * [Summary](js-summary.md)
 * [Intro to Javascript - Part 2](intro-to-javascript---part-2.md)
 * [Project: Build A 2 Player Game](project-build-a-2-player-game-with-javascript.md)
 * [Make Your Website Interactive with jQuery](make-your-website-interactive-with-jquery.md)
