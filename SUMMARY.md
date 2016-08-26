@@ -13,7 +13,7 @@
 * [APIs, AJAX and Third Party Integrations](apis-ajax-and-third-party-integrations.md)
 * [Real-Time Apps with Firebase](real-time-apps-with-firebase.md)
 * [Sending Automatic Emails with Mailgun](sending-automatic-emails-via-mailgun.md)
-* Project: Build A Chat App
-* Payment Processing with Stripe
-* Project: Build An E-commerce Website
+* [Project: Build A Chat App](project-build-a-chat-app.md)
+* [Payment Processing with Stripe](payment-processing-with-stripe.md)
+* [Project: Build An E-commerce Website](project-build-an-e-commerce-website.md)
 
