@@ -3,15 +3,15 @@
 * [Introduction](README.md)
 * [Web Fundamentals](web-fundamentals.md)
 * [HTML5 Building Blocks](html5-building-blocks.md)
-    * How Do Webpages Work?
-    * HTML Elements
-    * HTML Tags
-    * Basic Tags
+    * [How Do Webpages Work?](how-do-webpages-work.md)
+    * [HTML Elements](html-elements.md)
+    * [HTML Tags](html-tags.md)
+    * [Basic Tags](basic-tags.md)
     * [Quiz: HTML Tags Practice](quiz-html-tags-checkpoint.md)
-    * HTML vs. HTML5
-    * Exercise: Building Your First Webpage
-    * Exercise Solution
-    * Summary
+    * [HTML vs. HTML5](html-vs-html5.md)
+    * [Exercise: Building Your First Webpage](exercise-building-your-first-webpage.md)
+    * [Exercise Solution](exercise-solution.md)
+    * [Summary](summary.md)
 * [Styling with CSS3](styling-with-css3.md)
 * [Project: Build A Website with Bootstrap](project-1---bootstrap.md)
 * [Intro to Javascript - Part 1](intro-to-javascript---part-1.md)
