@@ -8,9 +8,7 @@
 
 * Lecture: Basic Tags
 
-* Quiz: HTML Tags Checkpoint
-
-* Quiz: HTML5 Tags Practice
+* Quiz: HTML Tags Practice
 
 * Lecture: HTML vs. HTML5
 

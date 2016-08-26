@@ -3,6 +3,13 @@
 * [Introduction](README.md)
 * [Web Fundamentals](web-fundamentals.md)
 * [HTML5 Building Blocks](html5-building-blocks.md)
+    * How Do Webpages Work?
+    * HTML Elements
+    * HTML Tags
+    * Basic Tags
+    * Quiz: HTML Tags Checkpoint
+    * HTML vs. HTML5
+    * Exercise: Building Your First Webpage
 * [Styling with CSS3](styling-with-css3.md)
 * [Project: Build A Website with Bootstrap](project-1---bootstrap.md)
 * [Intro to Javascript - Part 1](intro-to-javascript---part-1.md)
