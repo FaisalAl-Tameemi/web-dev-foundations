@@ -1,6 +1,5 @@
 # Web Fundamentals
 
----
 
 * Lecture: Introduction
 
