@@ -13,6 +13,18 @@
     * [Exercise Solution](exercise-solution.md)
     * [Summary](ch1-summary.md)
 * [Styling with CSS3](styling-with-css3.md)
+    * [Intro: What is CSS?](intro-what-is-css.md)
+    * Loading CSS Files Into Your Webpage
+    * CSS Syntax
+    * CSS Tag Selectors
+    * Quiz: Tag Selectors Practice
+    * CSS Class Selectors
+    * Quiz: Class Selectors Practice
+    * CSS ID Selectors
+    * Quiz: ID Selectors Practice
+    * Exercise: Stylize Your First Webpage
+    * CSS Exercise Solutions
+    * [Summary](ch2-summary.md)
 * [Project: Build A Website with Bootstrap](project-1---bootstrap.md)
 * [Intro to Javascript - Part 1](intro-to-javascript---part-1.md)
 * [Intro to Javascript - Part 2](intro-to-javascript---part-2.md)
