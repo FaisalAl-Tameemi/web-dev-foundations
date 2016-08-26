@@ -7,9 +7,11 @@
     * HTML Elements
     * HTML Tags
     * Basic Tags
-    * Quiz: HTML Tags Checkpoint
+    * [Quiz: HTML Tags Practice](quiz-html-tags-checkpoint.md)
     * HTML vs. HTML5
     * Exercise: Building Your First Webpage
+    * Exercise Solution
+    * Summary
 * [Styling with CSS3](styling-with-css3.md)
 * [Project: Build A Website with Bootstrap](project-1---bootstrap.md)
 * [Intro to Javascript - Part 1](intro-to-javascript---part-1.md)
