@@ -14,16 +14,16 @@
     * [Summary](ch1-summary.md)
 * [Styling with CSS3](styling-with-css3.md)
     * [Intro: What is CSS?](intro-what-is-css.md)
-    * Loading CSS Files Into Your Webpage
-    * CSS Syntax
-    * CSS Tag Selectors
-    * Quiz: Tag Selectors Practice
-    * CSS Class Selectors
-    * Quiz: Class Selectors Practice
-    * CSS ID Selectors
-    * Quiz: ID Selectors Practice
-    * Exercise: Stylize Your First Webpage
-    * CSS Exercise Solutions
+    * [Loading CSS Files Into Your Webpage](loading-css-files-into-your-webpage.md)
+    * [CSS Syntax](css-syntax.md)
+    * [CSS Tag Selectors](css-tag-selectors.md)
+    * [Quiz: Tag Selectors Practice](quiz-tag-selectors-practice.md)
+    * [CSS Class Selectors](css-class-selectors.md)
+    * [Quiz: Class Selectors Practice](quiz-class-selectors-practice.md)
+    * [CSS ID Selectors](css-id-selectors.md)
+    * [Quiz: ID Selectors Practice](quiz-id-selectors-practice.md)
+    * [Exercise: Stylize Your First Webpage](exercise-stylize-your-first-webpage.md)
+    * [CSS Exercise Solutions](css-exercise-solutions.md)
     * [Summary](ch2-summary.md)
 * [Project: Build A Website with Bootstrap](project-1---bootstrap.md)
 * [Intro to Javascript - Part 1](intro-to-javascript---part-1.md)
