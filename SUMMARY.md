@@ -16,7 +16,7 @@
     * [HTML Tags](content/__ch2_40_html_tags.md)
     * [Basic Tags](content/__ch2_50_basic_html_tags)
     * [Quiz: HTML Tags Practice](content/__ch2_60_html_tags_practice.md)
-    * [HTML vs. HTML5](content/__ch2_70_html_vs_html5.md)
+    * [HTML vs. HTML5](/content/__ch2_70_html_vs_html5.md)
     * [Exercise: Building Your First Webpage](content/__ch2_80_building_your_first_webpage_exercise.md)
     * [Exercise Solution](content/__ch2_90_exercise_solutions.md)
     * [Summary](content/__ch2_99_summary.md)
