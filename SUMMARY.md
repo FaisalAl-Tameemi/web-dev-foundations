@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Web Fundamentals](web-fundamentals.md)
-    * [Internet 101](internet-101.md)
+    * [Internet 101](__ch1_10_internet_101.md)
     * [What Is A Web Application?](what-is-a-web-application.md)
     * [Web Application Components](web-application-components.md)
     * [Front-End](front-end.md)
