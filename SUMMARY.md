@@ -10,4 +10,5 @@
 * [Project: Build A 2 Player Game](project-build-a-2-player-game-with-javascript.md)
 * [Make Your Website Interactive with jQuery](make-your-website-interactive-with-jquery.md)
 * [Project: Website Interactions and Animations](project-website-interactions-and-animations.md)
+* [APIs, AJAX and Third Party Integrations](apis-ajax-and-third-party-integrations.md)
 
