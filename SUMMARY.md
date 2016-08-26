@@ -2,14 +2,14 @@
 
 * [Introduction](README.md)
 * [Web Fundamentals](web-fundamentals.md)
-    * Internet 101
-    * What Is A Web Application?
-    * Web Application Components
-    * Front-End
-    * Back-End
-    * Databases
-    * Infrastructure
-    * Getting The Tools
+    * [Internet 101](internet-101.md)
+    * [What Is A Web Application?](what-is-a-web-application.md)
+    * [Web Application Components](web-application-components.md)
+    * [Front-End](front-end.md)
+    * [Back-End](back-end.md)
+    * [Databases](databases.md)
+    * [Infrastructure](infrastructure.md)
+    * [Getting The Tools](getting-the-tools.md)
 * [HTML5 Building Blocks](html5-building-blocks.md)
     * [How Do Webpages Work?](how-do-webpages-work.md)
     * [HTML Elements](html-elements.md)
@@ -35,6 +35,27 @@
     * [Summary](ch2-summary.md)
 * [Project: Build A Website with Bootstrap](project-1---bootstrap.md)
 * [Intro to Javascript - Part 1](intro-to-javascript---part-1.md)
+    * What Is Javascript?
+    * JS Variables
+    * Quiz: JS Variables
+    * JS Operators
+    * Quiz: JS Operators
+    * JS Functions \(aka Methods\)
+    * Quiz: JS Functions
+    * Exercise: JS Operators & Functions
+    * Exercise Solutions
+    * JS Arrays
+    * Quiz: JS Arrays
+    * JS Loops
+    * Quiz: JS Loops
+    * Exercise: JS Arrays and Loops
+    * Exercise Solutions
+    * JS Objects
+    * Quiz: Variables vs. Objects
+    * Quiz: More Objects
+    * Exercise: JS Objects
+    * Exercise Solutions
+    * JS Conditions
 * [Intro to Javascript - Part 2](intro-to-javascript---part-2.md)
 * [Project: Build A 2 Player Game](project-build-a-2-player-game-with-javascript.md)
 * [Make Your Website Interactive with jQuery](make-your-website-interactive-with-jquery.md)
