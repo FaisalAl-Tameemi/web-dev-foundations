@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Web Fundamentals](web-fundamentals.md)
-* [SUMMARY](summary.md)
+* [Summary](summary.md)
 
