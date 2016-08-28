@@ -1,6 +1,6 @@
 # Introduction
 
-Learn the fundamentals behind web applications development with HTML5, CSS3 and Javascript. Learn how to plan the development of your project by completing 4 unique projects along with a variety of exercises in each section.
+Learn the fundamentals behind web applications development with HTML5, CSS3 and Javascript. Learn how to plan the development of your project by completing __5 unique projects__ along with a variety of exercises in each of the __10 chapters__.
 
 The examples and projects are all based on real-life scenarios which you might encounter as a technical entrepreneur. From adding animations to your web application to processing payments, we will cover the core fundamentals to hit the ground running.
 
