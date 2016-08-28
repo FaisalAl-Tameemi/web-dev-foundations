@@ -4,7 +4,7 @@ Any user interface that can be accessed by a browser is either a website or a we
 
 ### Websites vs. Web Applications
 
-The main differences are as follows: 
+Let's start with the __websites__:
 
 - Websites are defined by their content.
 - The content of websites is usually static (i.e. doesn't change automatically).
@@ -13,7 +13,7 @@ The main differences are as follows:
 This means that if we had a static website which contains a list of blog posts and we wanted to add one more post, then we would actually have to change the code of the website manually. This is compared to dynamic content where we would have the code automatically display new blog posts from the database.
 
 
-While web applications are also served through a web browser (e.g. Chrome, Safari, etc..), they have a few characterstics that are different:
+__Web applications__ are also served through a web browser (e.g. Chrome, Safari, etc..), they have a few characterstics that are different:
 
 - Web apps are defined by user interactions.
 - Web apps have dynamic content and is driven by data.
