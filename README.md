@@ -38,6 +38,4 @@ The examples and projects are all based on real-life scenarios which you might e
 - Engineers who want to work with the backend / server side of web development
 
 
-----
-
 
