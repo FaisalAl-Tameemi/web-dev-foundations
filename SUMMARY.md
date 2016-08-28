@@ -1,15 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Web Fundamentals](chapter_1/README.md)
-    * [Internet 101](chapter_1/__ch1_10_internet_101.md)
-    * [What Is A Web Application?](chapter_1/__ch1_20_what_is_a_webapp.md)
-    * [Web Application Components](chapter_1/__ch1_30_web_app_components.md)
-    * [Front-End](chapter_1/__ch1_40_frontend.md)
-    * [Back-End](chapter_1/__ch1_50_backend.md)
-    * [Databases](chapter_1/__ch1_60_databases.md)
-    * [Infrastructure](chapter_1/__ch1_70_infrastructure.md)
-    * [Getting The Tools](chapter_1/__ch1_80_getting_the_tools.md)
+* [Web Fundamentals](chapter_1/README.md)    * [Internet 101](contentchapter_1/__ch1_10_internet_101.md)    * [What Is A Web Application?](contentchapter_1/__ch1_20_what_is_a_webapp.md)    * [Web Application Components](contentchapter_1/__ch1_30_web_app_components.md)    * [Front-End](contentchapter_1/__ch1_40_frontend.md)    * [Back-End](contentchapter_1/__ch1_50_backend.md)    * [Databases](contentchapter_1/__ch1_60_databases.md)    * [Infrastructure](contentchapter_1/__ch1_70_infrastructure.md)    * [Getting The Tools](contentchapter_1/__ch1_80_getting_the_tools.md)
 * [HTML5 Building Blocks](content/__ch2_10_html_building_blocks.md)
     * [How Do Webpages Work?](content/__ch2_20_how_do_webpages_work.md)
     * [HTML Elements](content/__ch2_30_html_elements.md)
@@ -67,5 +59,5 @@
 * [Project: Build A Chat App](project-build-a-chat-app.md)
 * [Payment Processing with Stripe](payment-processing-with-stripe.md)
 * [Project: Build An E-commerce Website](project-build-an-e-commerce-website.md)
-* [SUMMARY](SUMMARY.md)
+* HTML Building Blocks
 
