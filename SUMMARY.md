@@ -10,7 +10,7 @@
     * [Databases](chapter_1/__ch1_60_databases.md)
     * [Infrastructure](chapter_1/__ch1_70_infrastructure.md)
     * [Getting The Tools](chapter_1/__ch1_80_getting_the_tools.md)
-* [HTML5 Building Blocks](content/__ch2_10_html_building_blocks.md)
+* [HTML5 Building Blocks](chapter_2/README.md)
     * [How Do Webpages Work?](chapter_2/__ch2_20_how_do_webpages_work.md)
     * [HTML Elements](chapter_2/__ch2_30_html_elements.md)
     * [HTML Tags](chapter_2/__ch2_50_basic_html_tags.md)
