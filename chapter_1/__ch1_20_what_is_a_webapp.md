@@ -10,6 +10,9 @@ The main differences are as follows:
 - The content of websites is usually static (i.e. doesn't change automatically).
 - Websites with static content are becoming less common.
 
+This means that if we had a static website which contains a list of blog posts and we wanted to add one more post, then we would actually have to change the code of the website manually. This is compared to dynamic content where we would have the code automatically display new blog posts from the database.
+
+
 While web applications are also served through a web browser (e.g. Chrome, Safari, etc..), they have a few characterstics that are different:
 
 - Web apps are defined by user interactions.
