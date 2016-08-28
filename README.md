@@ -1,5 +1,3 @@
-![](/assets/Image 2016-08-25 at 10.41.25 PM.png)
-
 # Introduction
 
 Learn the fundamentals behind web applications development with HTML5, CSS3 and Javascript. Learn how to plan the development of your project by completing 4 unique projects along with a variety of exercises in each section.
