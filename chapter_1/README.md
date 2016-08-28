@@ -6,4 +6,4 @@ We will also get our machines (aka laptops) ready with the required tools for do
 
 We will briefly discuss planning web development projects and the different phases that are involved, then we will apply those skills in every project.
 
-Ready to get started?
+__Ready to get started?__
