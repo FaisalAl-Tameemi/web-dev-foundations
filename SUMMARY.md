@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Web Fundamentals](content/__ch1_01_web_fundamentals.md)
+* [Web Fundamentals](chapter_1/README.md)
     * [Internet 101](content/__ch1_10_internet_101.md)
     * [What Is A Web Application?](content/__ch1_20_what_is_a_webapp.md)
     * [Web Application Components](content/__ch1_30_web_app_components.md)
@@ -33,7 +33,7 @@
     * [Exercise: Stylize Your First Webpage](content/__ch3_95_stylize_your_page_exercise.md)
     * [CSS Exercise Solutions](content/__ch3_96_exercise_solutions.md)
     * [Summary](content/__ch3_99_summary.md)
-* [Project: Build A Website with Bootstrap]()
+* Project: Build A Website with Bootstrap
 * [Intro to Javascript - Part 1](intro-to-javascript---part-1.md)
     * [What Is Javascript?](what-is-javascript.md)
     * [JS Variables](js-variables.md)
