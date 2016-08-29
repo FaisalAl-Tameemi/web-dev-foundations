@@ -13,5 +13,9 @@ In the next few sections we will dive deeper into each of them but let's go thro
 
 ![png](https://cl.ly/1c3g3F021x1h/Image%202016-08-28%20at%208.27.12%20PM.png "web_components_1")
 
-The image on the left (labeled __"Device / Client"__) will represent a user's device and is also the __"Front-End"__.
+On the left, __"Device / Client"__, will represent a user's device and is also the __"Front-End"__. This is also where the browser lives. 
+
+The server is where "Database" and the "Back-End" logic lives. Sometimes the Back-End logic is seperated from the database and hosted in 2 different servers.
+
+The Front-End makes requests to the Back-End to load resources and files.
 
