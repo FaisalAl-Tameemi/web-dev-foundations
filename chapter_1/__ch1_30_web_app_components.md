@@ -12,3 +12,6 @@ The components that are relevant to web development can be summerized as follows
 In the next few sections we will dive deeper into each of them but let's go through a high-level view of what each component does:
 
 ![png](https://cl.ly/1c3g3F021x1h/Image%202016-08-28%20at%208.27.12%20PM.png "web_components_1")
+
+The image on the left (labeled __"Device / Client"__) will represent a user's device and is also the __"Front-End"__.
+
