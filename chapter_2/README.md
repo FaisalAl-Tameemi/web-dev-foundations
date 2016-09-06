@@ -9,8 +9,7 @@ Here's an outline:
 
 - We will practice breaking down the components of webpages we are all familiar with such as Facebook or Twitter.
 
-- We will build our first web page in a mini project towards the end of the chapter.
-
+- We will build our first web page in a mini project towards the end of the chapter.  
 
 
 __Ready to get started?__
