@@ -12,4 +12,3 @@ Here's an outline:
 - We will build our first web page in a mini project towards the end of the chapter.  
 
 
-__Ready to get started?__
