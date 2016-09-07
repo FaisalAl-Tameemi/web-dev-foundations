@@ -61,6 +61,30 @@ If you visit the link, you'll notice that the only thing on that page is the ima
 We can also add attributes like `height` and `weight` to change the size of the image (checkout the resources below).
 
 
+### Nested Tags
+
+In the example below, we can see that HTML allows us to place tags within other tags. This is HTML's way of allowing us to express more complicated structures.
+
+For example, we will us the `<body>` tag to define the main content of the page but within that we will use many other tags and keep nesting them.
+
+```html
+<article>
+    <header>
+        <h2> Our Article </h2>
+        <h3> Written by… </h3>
+    </header>
+</article>
+```
+
+Remember that humans are the only ones that care about indentation. HTML actually ignore anything more than one whitespace and considers it as a single whitespace.
+
+This means we could rewrite the code above as:
+
+```html
+<article><header><h2> Our Article </h2><h3> Written by… </h3></header></article>
+```
+
+and that would result in the same thing but much harder to read.
 
 ----
 
