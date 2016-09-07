@@ -40,6 +40,21 @@ We could also add an `id` tag to our link if we wanted to refer to it later
 
 There is no limit to the number of attributes an element has.
 
+
+### With Opening Tags
+
+Some tags don't require that you close them, this is because there is no content that goes between the opening tag and close tag in their case. An example of this kind of tags is an `<img>` tag. 
+
+The main attribute we need to be able to show an image is `src` (stands of source) which indicates the location of the image on the web:
+
+```
+<img src="http://bit.ly/1OMiOIV" />
+```
+
+If you visit the link, you'll notice that the only thing on that page is the image itself, that's the kind of URL we need to provide in the tag.
+
+We can also add attributes like `height` and `weight` to change the size of the image (checkout the resources below).
+
 ----
 
 ## Resources & Links
@@ -47,3 +62,5 @@ There is no limit to the number of attributes an element has.
 ### [W3Schools Tags List](http://www.w3schools.com/tags/default.asp)
 
 ### [Mozzile Element Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element)
+
+### [Read more about image tags](http://www.w3schools.com/tags/tag_img.asp)
