@@ -1,4 +1,4 @@
-# Styling with CSS
+# Styling Webpages with CSS
 
 In this chapter, our objectives will be the following:
 
