@@ -27,13 +27,15 @@ Some common tags in HTML include, `<h1>` for a large heading title:
 
 which would produce a title vary similar to the one at the top of this section.
 
-We will discuss variations of headings in 
+Another widely used tag is the 
 
 ----
 
 ## Resources & Links
 
-### [Headings Reference - W3Schools](http://www.w3schools.com/html/html_headings.asp)
+### [Headings Reference](http://www.w3schools.com/html/html_headings.asp)
+
+### [Paragraph Reference](http://www.w3schools.com/html/html_paragraphs.asp)
 
 
 
