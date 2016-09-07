@@ -30,6 +30,13 @@ Another attribute we can add to our link tag is a __target__. Clicking the link 
 
 which would show: <a href="http://google.com" target="_blank">Go To Google In New Tag</a>
 
+We could also add an `id` tag to our link if we wanted to refer to it later
+
+```html
+<a href="http://google.com" target="_blank" id="google-link">
+ Go To Google In New Tag
+</a>
+```
 
 ----
 
