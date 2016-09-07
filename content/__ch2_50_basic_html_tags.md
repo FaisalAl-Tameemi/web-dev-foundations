@@ -35,4 +35,6 @@ which would show: <a href="http://google.com" target="_blank">Go To Google In Ne
 
 ## Resources & Links
 
-### [Tags List](http://www.w3schools.com/tags/default.asp)
+### [W3Schools Tags List](http://www.w3schools.com/tags/default.asp)
+
+### [Mozzile Element Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element)
