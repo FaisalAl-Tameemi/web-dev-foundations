@@ -110,8 +110,7 @@ The `<html>` tags wraps up the entire page. While the `<head>` tag within in con
 The `<body>` tag is where we will place the content that we want to display within our page. This means all the `<p>` tags and the `<a>` tags go into the `<body>` tag.
 
 
-The goal of HTML tags is to be as descriptive as possible of the content they contain. This is what we refer to as __Semantic Tags__.
-
+The goal of HTML tags is to be as descriptive as possible of the content they contain. This is what we refer to as __Semantic Tags__. An example of those include `<footer>` which clearly describes the content of the footer of the page. Another one is `<hav>` which describes a navigation menu or bar.
 
 ----
 
