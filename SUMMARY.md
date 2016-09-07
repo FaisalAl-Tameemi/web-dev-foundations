@@ -60,10 +60,4 @@
 * [Project: Build A 2 Player Game](project_2/README.md)
 * [Make Your Website Interactive with jQuery](chapter_6/README.md)
 * [Project: Website Interactions and Animations](project_3/README.md)
-* [APIs, AJAX and Third Party Integrations](chapter_7/README.md)
-* [Real-Time Apps with Firebase](chapter_8/README.md)
-* [Sending Automatic Emails with Mailgun](chapter_9/README.md)
-* [Project: Build A Chat App](project_4/README.md)
-* [Payment Processing with Stripe](chapter_10/README.md)
-* [Project: Build An E-commerce Website](project_5/README.md)
 
