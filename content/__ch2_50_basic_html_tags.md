@@ -86,6 +86,30 @@ This means we could rewrite the code above as:
 
 and that would result in the same thing but much harder to read.
 
+
+### HTML Page Skeleton
+
+HTML pages are general composed of the following structure:
+
+```html
+<!doctype html>
+<html>
+    <head>
+        ... (other tags here)
+    </head>
+    <body>
+        ... (other tags here)
+    </body>
+</html>
+```
+
+Every webpage starts with the `<!doctype html>` to tell the browser about the kind of the document we have written and what to the expect.
+
+The `<html>` tags wraps up the entire page. While the `<head>` tag within in contains other files that we may need as well as some metadata about the page. We will work within the `<head>` tag in upcoming sections as we start to work with CSS and Javascript.
+
+The `<body>` tag is where we will place the content that we want to display within our page.
+
+
 ----
 
 ## Resources & Links
