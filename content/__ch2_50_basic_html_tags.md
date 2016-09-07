@@ -38,6 +38,8 @@ We could also add an `id` tag to our link if we wanted to refer to it later
 </a>
 ```
 
+There is no limit to the number of attributes an element has.
+
 ----
 
 ## Resources & Links
