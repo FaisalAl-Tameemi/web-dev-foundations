@@ -4,6 +4,6 @@ Webpages built with HTML are composed of what we can call `Elements`. These are 
 
 Web documents have a number of boxes (“elements”), such as:         `header`, `footer`, `body`, `section`, `paragraph`, etc.
 
-Elements are defined using `tags`.
+Elements are defined using HTML __tags__ (ex: `<p>` for paragraph).
 
-Without tags, you just have plain text.
+Without tags, we would just have plain text and webpages wouldn't have any structure.
