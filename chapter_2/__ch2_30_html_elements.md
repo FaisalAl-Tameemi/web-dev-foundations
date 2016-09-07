@@ -6,4 +6,4 @@ Web documents have a number of boxes (“elements”), such as:         `header`
 
 Elements are defined using HTML __tags__ (ex: `<p>` for paragraph).
 
-Without tags, we would just have plain text and webpages wouldn't have any structure.
+Without tags, we would just have plain text and webpages would lose structure.
