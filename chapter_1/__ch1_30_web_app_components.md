@@ -2,7 +2,7 @@
 
 A website or web application is built from various components interacting together to provide the final result which the user sees on their browser window.
 
-The components that are relevant to web development can be summerized as follows:
+The components that are relevant to web development can be summerized (high-level) as follows:
 
 1. Front-End
 2. Back-End
