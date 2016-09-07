@@ -51,9 +51,16 @@ The main attribute we need to be able to show an image is `src` (stands of sourc
 <img src="http://bit.ly/1OMiOIV" />
 ```
 
+which would result in:
+
+<img src="http://bit.ly/1OMiOIV" />
+
+
 If you visit the link, you'll notice that the only thing on that page is the image itself, that's the kind of URL we need to provide in the tag.
 
 We can also add attributes like `height` and `weight` to change the size of the image (checkout the resources below).
+
+
 
 ----
 
