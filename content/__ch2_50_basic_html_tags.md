@@ -110,6 +110,9 @@ The `<html>` tags wraps up the entire page. While the `<head>` tag within in con
 The `<body>` tag is where we will place the content that we want to display within our page. This means all the `<p>` tags and the `<a>` tags go into the `<body>` tag.
 
 
+The goal of HTML tags is to be as descriptive as possible of the content they contain. This is what we refer to as __Semantic Tags__.
+
+
 ----
 
 ## Resources & Links
