@@ -27,7 +27,7 @@ Some common tags in HTML include, `<h1>` for a large heading title:
 
 which would produce a title vary similar to the one at the top of this section.
 
-Another widely used tag is the 
+Another widely used tag is the paragraph tag we discussed above. The text you are reading right now is a paragraph.
 
 ----
 
