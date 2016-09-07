@@ -107,7 +107,7 @@ Every webpage starts with the `<!doctype html>` to tell the browser about the ki
 
 The `<html>` tags wraps up the entire page. While the `<head>` tag within in contains other files that we may need as well as some metadata about the page. We will work within the `<head>` tag in upcoming sections as we start to work with CSS and Javascript.
 
-The `<body>` tag is where we will place the content that we want to display within our page.
+The `<body>` tag is where we will place the content that we want to display within our page. This means all the `<p>` tags and the `<a>` tags go into the `<body>` tag.
 
 
 ----
