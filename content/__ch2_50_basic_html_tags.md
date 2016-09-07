@@ -112,6 +112,12 @@ The `<body>` tag is where we will place the content that we want to display with
 
 The goal of HTML tags is to be as descriptive as possible of the content they contain. This is what we refer to as __Semantic Tags__. An example of those include `<footer>` which clearly describes the content of the footer of the page. Another one is `<hav>` which describes a navigation menu or bar.
 
+
+### Default Styling
+
+Some tags such as `<h1>` through to `<h6>` contain some minimal default styling but it can all be changed with CSS as we will see in the next chapter.
+
+
 ----
 
 ## Resources & Links
