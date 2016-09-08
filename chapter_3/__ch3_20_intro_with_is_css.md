@@ -9,6 +9,6 @@ CSS is an acronym for __Cascading Style Sheets__.
 
 CSS is a programming language that defines styles of HTML elements. 
 
-Some of the things that CSS covers include fonts, colours, margins, lines, height, width, background images, advanced positions and many other things. In other words, CSS is what makes your webpages beautiful.
+Some of the things that you can code with CSS include fonts, colors, spacing, sizing, background images, element positions, etc... 
 
-It is a language that is suppored by all modern web browsers. 
+In other words, CSS is what makes your webpages beautiful and it is a language that is suppored by all modern web browsers. 
