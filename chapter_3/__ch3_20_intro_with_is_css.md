@@ -15,12 +15,13 @@ In other words, CSS is what makes your webpages beautiful and it is a language t
 
 ### Do we have to use CSS?
 
-CSS was a revolution in the world of web design. The concrete benefits of CSS include:
+CSS provides certain features that can not be achieved by HTML alone, these benefits include:
 
-- Control layout of many documents from one single style sheet
+- Control the layout of your page
 
-- More precise control of layout
+- Seperation of concerns (we can put our styling sheetes in different files than our HTML code for the structure of the page)
 
-- Apply different layout to different media-types (screen, print, etc.)
+- Apply responsive designs to webpages
 
-- Numerous advanced and sophisticated techniques
+- Reuse CSS styles in multiple projects
+
