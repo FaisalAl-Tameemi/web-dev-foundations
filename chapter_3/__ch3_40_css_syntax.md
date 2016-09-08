@@ -16,4 +16,6 @@ Let's breakdown the different components involved in the example above:
 
 If you're still unsure what each of those components above are doing, don't worry. We will be practicing various types of properties and their values.
 
-> _Note:_ Anything that goes between `/* ... */` within a CSS file will be ignored by browser as it's considered a comment (i.e. for humans only).
+> _Note:_ Any text that goes between `/* ... */` within a CSS file will be ignored by browser as it's considered a comment (i.e. for humans only). 
+
+> Also remember that all programming languages have comments but the way to write them could be different. For example, in HTML, a comment could be written as `<!-- my html comment -->`
