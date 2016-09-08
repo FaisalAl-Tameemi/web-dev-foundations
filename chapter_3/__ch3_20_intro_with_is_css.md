@@ -5,7 +5,7 @@ You might have heard the term "CSS" and in this section we will learn about how 
 CSS is an acronym for __Cascading Style Sheets__.
 
 
-### What Can We Do with CSS?
+### What can we do with CSS?
 
 CSS is a programming language that defines styles of HTML elements. 
 
