@@ -4,4 +4,4 @@ In this section, we'll go over the syntax of CSS code. Much like we discussed th
 
 ## Anatomy of CSS Code
 
-![](https://cl.ly/2a2E1Z3h0X2z "css_syntax")
+![](https://cl.ly/2a2E1Z3h0X2z/Image%202016-09-08%20at%206.40.06%20PM.png "css_syntax")
