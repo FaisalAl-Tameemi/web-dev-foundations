@@ -18,7 +18,7 @@ We know that the google page URL is __http://google.com__. Our HTML will then be
 
 Which would result in this:
 
-{% codeeditor src='../assets/sources/001_html_links.html', readOnly='true', theme='github' %} {% endcodeeditor %}
+{% codeeditor src='../assets/sources/001_html_links.html', readOnly='true' %} {% endcodeeditor %}
 
 
 In the code above, we've used the __href__ attribute to tell our browser the place it should go to once the user clicks the link.
