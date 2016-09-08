@@ -7,8 +7,7 @@ There are 3 major ways to add CSS code to your HTML webpages.
 3. Via external styling files
 
 
-### Inline Styles
-
+### Inline
 ...
 
 
