@@ -18,7 +18,6 @@ We know that the google page URL is __http://google.com__. Our HTML will then be
 
 Which would result in this:
 
-
 [](codepen://Lingyucoder/xEGpAj?height=800&theme=0)
 
 
