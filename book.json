@@ -1,5 +1,5 @@
 {
-    "plugins": ["quiz"],
+    "plugins": ["quiz", "code-editor"],
     "pluginsConfig": {
 	    "quiz": {
         	    "labels": {
