@@ -16,7 +16,11 @@ We know that the google page URL is __http://google.com__. Our HTML will then be
 </a>
 ```
 
-Which would result in this: <a href="http://google.com">Go To Google</a>
+Which would result in this:
+
+
+[](codepen://Lingyucoder/xEGpAj?height=800&theme=0)
+
 
 In the code above, we've used the __href__ attribute to tell our browser the place it should go to once the user clicks the link.
 
