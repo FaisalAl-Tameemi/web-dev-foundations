@@ -14,7 +14,7 @@
     * [How Do Webpages Work?](chapter_2/__ch2_20_how_do_webpages_work.md)
     * [HTML Elements](chapter_2/__ch2_30_html_elements.md)
     * [HTML Tags](chapter_2/__ch2_50_basic_html_tags.md)
-    * [Tag Variations](content/__ch2_50_basic_html_tags.md)
+    * [Tag Variations](chapter_2/__ch2_55_tag_variations.md)
     * [Quiz: HTML Tags Practice](chapter_2/__ch2_60_html_tags_practice.md)
     * [Exercise: Building Your First Webpage](chapter_2/__ch2_80_building_your_first_webpage_exercise.md)
     * [Exercise Solution](chapter_2/__ch2_90_exercise_solutions.md)
