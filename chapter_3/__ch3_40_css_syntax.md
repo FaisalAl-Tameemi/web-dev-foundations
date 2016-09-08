@@ -16,4 +16,4 @@ Let's breakdown the different components involved in the example above:
 
 If you're still unsure what each of those components above are doing, don't worry. We will be practicing various types of properties and their values.
 
-_Note:_ Anything that goes between `/* */` inside of a CSS file will be ignored by browser as it's considered a comment (i.e. for humans only).
+_Note:_ <small>Anything that goes between `/* */` inside of a CSS file will be ignored by browser as it's considered a comment (i.e. for humans only).</small>
