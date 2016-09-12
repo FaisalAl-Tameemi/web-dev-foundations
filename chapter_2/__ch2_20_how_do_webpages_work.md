@@ -14,7 +14,7 @@ The content (e.g. images, HTML files, etc..) is then hosted (aka stored) on serv
 
 During the duration of this course, we won't be working on server code directly, instead we will be focusing on Front-End code (runs inside the browser).
 
-
+If you'd like to find out more about how servers work, checkout the links and resources below.
 
 ----
 
