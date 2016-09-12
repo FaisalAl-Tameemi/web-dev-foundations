@@ -10,6 +10,11 @@ The next thing to understand would be that browsers are the user's agent for dow
 
 ![png](https://cl.ly/3l2q2s0g0805/Image%202016-09-12%20at%204.12.07%20PM.png "stream_and_download")
 
+The content (e.g. images, HTML files, etc..) is then hosted (aka stored) on servers (other computers).
+
+During the duration of this course, we won't be working on server code directly, instead we will be focusing on Front-End code (runs inside the browser).
+
+
 
 ----
 
