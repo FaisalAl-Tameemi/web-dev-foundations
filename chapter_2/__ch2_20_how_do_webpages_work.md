@@ -4,9 +4,11 @@ In order to understand how webpages work and how it is that we are loading them 
 
 First, we visit webpages from browsers which could be on our laptops, phones or tablets.
 
-![image from test](https://cl.ly/3V3G0A3O0C3r/Image%202016-09-12%20at%204.09.02%20PM.png "browsers_and_devices")
+![png](https://cl.ly/3V3G0A3O0C3r/Image%202016-09-12%20at%204.09.02%20PM.png "browsers_and_devices")
 
+The next thing to understand would be that browsers are the user's agent for downloading and streaming things like files, musics and videos.
 
+![png](https://cl.ly/3l2q2s0g0805/Image%202016-09-12%20at%204.12.07%20PM.png "stream_and_download")
 
 
 ----
