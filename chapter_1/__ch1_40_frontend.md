@@ -1,5 +1,7 @@
 # Front-End
 
+## What Is Front-End Development?
+
 __Front-end web development__ (aka __client-side__ development) is the practice of building user interfaces that live in the browser by writing _HTML, CSS and JavaScript_ (programming languages).
 
 One of the challenges with Front-end development is that the methods and techniques are in constant flux (i.e. they keep changing) to keep up with the requirements of users for a fluid experience.
@@ -14,9 +16,10 @@ Now, since browsers understand HTML, CSS and Javascript, we say that working wit
 
 In the upcoming chapters, we will get started working with each of the programming languages mentioned above to start building websites!!  :)
 
-
 ----
 
 ## Resources & Links
 
-### []()
+### [Front-End vs. Back-End - Treehouse](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
+
+### [Front-End vs. Back-End vs. Full Stack - Udacity](http://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html)
