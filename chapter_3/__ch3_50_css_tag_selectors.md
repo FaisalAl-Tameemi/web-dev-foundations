@@ -38,7 +38,6 @@ p{
 }
 ```
 
+then all the paragraphs on the page would be styled the same. Large characters and spaced out. As you can imagine, we may need more specifity as we build more complex UIs (user interfaces).
 
-_Note:_ "px" stands for pixels.
-
-
+In the upcoming sections, we will look into more specific ways of applying CSS styling. Ways that could allows us to apply styles to specific elements on the page.
