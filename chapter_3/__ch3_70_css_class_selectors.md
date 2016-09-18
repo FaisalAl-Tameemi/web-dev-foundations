@@ -28,6 +28,8 @@ Now, in the CSS code:
 }
 ```
 
+{% codeeditor src='../assets/sources/003_css_class_selectors.html', readOnly='false' %} {% endcodeeditor %}
+
 
 ----
 
