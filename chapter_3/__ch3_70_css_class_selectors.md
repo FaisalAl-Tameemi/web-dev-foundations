@@ -35,4 +35,4 @@ Now, in the CSS code:
 
 ## Resources & Links
 
-...
+### [CSS Selectors - W3Schools](http://www.w3schools.com/css/css_syntax.asp)
