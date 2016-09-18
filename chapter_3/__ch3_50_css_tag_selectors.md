@@ -73,7 +73,7 @@ which specifies that only paragraphs that are inside of `div` tags should change
 
 The final result of the code above would be as follows:
 
-{% codeeditor src='../assets/sources/002_css_tag_selectors.html', readOnly='false' %} {% endcodeeditor %}
+{% codeeditor src='../assets/sources/002_css_tag_selector.html', readOnly='false' %} {% endcodeeditor %}
 
 In the upcoming sections, we will look into more specific ways of applying CSS styling. Ways that could allows us to apply styles to specific elements on the page.
 
