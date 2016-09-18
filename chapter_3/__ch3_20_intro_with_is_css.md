@@ -24,11 +24,3 @@ CSS provides certain features that can not be achieved by HTML alone, these bene
 - Apply responsive designs to webpages
 
 - Reuse CSS styles in multiple projects
-
-
-----
-
-## Resources & Links
-
-...
-
