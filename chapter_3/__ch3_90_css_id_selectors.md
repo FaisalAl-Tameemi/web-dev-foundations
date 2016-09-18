@@ -23,7 +23,7 @@ Now, in our CSS, we can do the following to select ONLY that element and specify
 
 The final result would be as follows (the `result` tab may take a second to load):
 
-{% codeeditor src='../assets/sources/004_css_id_selectors.html', readOnly='false' %} {% endcodeeditor %}
+{% codeeditor src='../assets/sources/004_css_id_selector.html', readOnly='false' %} {% endcodeeditor %}
 
 
 ----
