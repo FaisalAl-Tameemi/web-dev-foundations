@@ -7,11 +7,13 @@ If we recall the CSS syntax from 2 sections ago, we would know that to have a co
 
 However, we have only ever seen one type of selectors and there are 3 main ones.
 
-1. __Tag Selectors__ (ex: "p" or "img")
+1. __Tag Selectors__ (ex: "p" or "img") and __Nested Tags__
 2. __Class Selectors__ (ex: ".my-paragraph" or ".contacts-list")
 3. __ID Selectors__ (ex: "#paragraph-1" or "#main-navbar")
 
 In this section, we will discuss and practice the first (and least specific) type of CSS selectors.
+
+### Tag Selectors
 
 Tag selectors work by specifying the type of HTML tag that we would like to style. A __gotcha__ with this type of selectors is that the style specified will be applied to ALL html elements with that tag.
 
@@ -39,5 +41,26 @@ p{
 ```
 
 then all the paragraphs on the page would be styled the same. Large characters and spaced out. As you can imagine, we may need more specifity as we build more complex UIs (user interfaces).
+
+### Nested Tag Selectors
+
+Another way to write CSS tag selectors is to nest them. 
+
+That means we can specify the styles of certain tags which are inside of other tags.
+
+Consider the following HTML code:
+
+```html
+<div>
+    <p>
+        My paragraph text...
+    </p>
+</div>
+<p>
+    A paragraph outside the div...
+</p>
+```
+
+
 
 In the upcoming sections, we will look into more specific ways of applying CSS styling. Ways that could allows us to apply styles to specific elements on the page.
