@@ -61,6 +61,21 @@ Consider the following HTML code:
 </p>
 ```
 
+Now if we wanted to style only the paragraph that are inside of `div`s, then our CSS code would be the following:
 
+```css
+div p {
+    color: blue;
+}
+```
+
+which specifies that only paragraphs that are inside of `div` tags should change their text color to blue.
 
 In the upcoming sections, we will look into more specific ways of applying CSS styling. Ways that could allows us to apply styles to specific elements on the page.
+
+
+----
+
+## Resources & Links
+
+### [CSS Selectors - W3Schools](http://www.w3schools.com/css/css_syntax.asp)
