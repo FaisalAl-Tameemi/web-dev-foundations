@@ -31,4 +31,5 @@ The final result would be as follows (the `result` tab may take a second to load
 ## Resources & Links
 
 
-...
+### [CSS Selectors - W3Schools](http://www.w3schools.com/css/css_syntax.asp)
+
