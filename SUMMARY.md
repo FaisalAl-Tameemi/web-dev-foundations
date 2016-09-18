@@ -26,6 +26,7 @@
     * [Summary](chapter_3/__ch3_99_summary.md)
 * [Project: Build A Website with Bootstrap](project_1/README.md)
     * [Step 1: The Plan](project_1/__001_step_1.md)
+    * [Step 2: The Components](project_1/__002_step_2.md)
 * [Intro to Javascript - Part 1](chapter_4/README.md)
     * [What Is Javascript?](chapter_4/__ch4_05_what_is_javascript.md)
     * [JS Variables](chapter_4/__ch4_10_js_variables.md)
