@@ -17,7 +17,6 @@
     * [Tag Variations](chapter_2/__ch2_55_tag_variations.md)
     * [Quiz: HTML Tags Practice](chapter_2/__ch2_60_html_tags_practice.md)
     * [Exercise: Building Your First Webpage](chapter_2/__ch2_80_building_your_first_webpage_exercise.md)
-    * [Chrome Dev Tools](chapter_2/__ch2_95_chrome_dev_tools.md)
     * [Summary](chapter_2/__ch2_99_summary.md)
 * [Styling with CSS3](chapter_3/README.md)
     * [Intro: What is CSS?](chapter_3/__ch3_20_intro_with_is_css.md)
