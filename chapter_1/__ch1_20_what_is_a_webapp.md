@@ -1,4 +1,4 @@
-# What's A Web Applicatoin?
+# What's A Web Application?
 
 Any user interface that can be accessed by a browser is either a website or a web application.
 
@@ -13,7 +13,7 @@ Let's start with the __websites__:
 This means that if we had a static website which contains a list of blog posts and we wanted to add one more post, then we would actually have to change the code of the website manually. This is compared to dynamic content where we would have the code automatically display new blog posts from the database.
 
 
-__Web applications__ are also served through a web browser (e.g. Chrome, Safari, etc..), they have a few characterstics that are different:
+__Web applications__ are also served through a web browser (e.g. Chrome, Safari, etc..), they have a few characteristics that are different:
 
 - Web apps are defined by user interactions.
 - Web apps have dynamic content and is driven by data.
