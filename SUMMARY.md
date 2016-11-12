@@ -24,9 +24,4 @@
     * [CSS Class Selectors](chapter_3/__ch3_70_css_class_selectors.md)
     * [CSS ID Selectors](chapter_3/__ch3_90_css_id_selectors.md)
     * [Summary](chapter_3/__ch3_99_summary.md)
-* [Project: Build A Website with Bootstrap](project_1/README.md)
-    * [Step 1: The Plan](project_1/__001_step_1.md)
-    * [Step 2: The Components](project_1/__002_step_2.md)
-    * [Step 3: The Implementation](project_1/__003_step_3.md)
-    * [Project Summary](project_1/__009_project_1_summary.md)
 
