@@ -1,3 +1,0 @@
-# HTML vs HTML5
-
-...

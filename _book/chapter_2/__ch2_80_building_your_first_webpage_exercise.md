@@ -1,3 +1,0 @@
-# Exercise: Build Your First Webpage
-
-...

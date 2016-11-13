@@ -1,3 +1,0 @@
-# Chrome Dev Tools
-
-...
